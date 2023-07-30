@@ -2,10 +2,7 @@ import React from "react";
 import OwlCarousel from "react-owl-carousel";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
-import { IoMdArrowDropright } from "react-icons/io";
-import Slider2 from "../../Images/SliderImage2.jpg";
 import expert from "../../Images/expert.png";
-import Slider3 from "../../Images/Slider3.jpg";
 import Slider1 from "../../Images/SliderImage1.jpg";
 import { useNavigate } from "react-router-dom";
 
