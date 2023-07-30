@@ -1,0 +1,57 @@
+[
+  {
+    "title": "CA Final",
+    "chapters": [
+      {
+        "chapterTitle": "FINANCIAL POLICY & CORPORATE STRATEGY",
+        "testQA": [
+          {
+            "question": "Discuss briefly the key decisions which fall within the scope of financial strategy"
+          },
+
+          { "question": "What is Pitch Presentation?" },
+          {
+            "question": "A Ltd. is considering a Rs.50 crores 3-year interest rate swap. The company is interested in borrowing at a floating rate; however, due to its good credit rating, it has a comparative advantage over lower-rated companies in the fixed-rate market. It can borrow at a fixed rate of 6.25% or a floating rate MIBOR+0.75%. \\n Presently, MIBOR is 5.25% but is expected to change in 6 months due to the political situation in the country. X Ltd., an intermediary bank, agreed to arrange a swap. The bank will offset the swap risk with a counterparty (B. Ltd.), a comparatively lower credit-rated company, which could borrow at a fixed rate of 7.25% and a floating rate of MIBOR + 1.25%. X Ltd. would charge Rs. 12,00,000 per year as its fee from each party. Mr. Fin, the CFO of A Ltd., desires that A Ltd. should receive 60% of any arbitrage saving (before payment of fees) from the swap as A Ltd. enjoys a high credit rating. Any fees paid to the bank are tax allowable. The applicable tax rate is 30%. You are required to: \\n (a) Evaluate whether the proposal is beneficial for both parties or not. \n(b) Assuming that MIBOR was to increase to 5.75% immediately after the political crisis over and shall remain constant for the period of the swap, evaluate the present value of savings from the swap for A Ltd., assuming that interest payments are made semi-annually in arrears.",
+            "important": true
+          },
+          {
+            "question": "How financial goals can be balanced vis-a-vis sustainable growth? \n OR \n  Write a short note on Balancing Financial Goals vis-a-vis Sustainable Growth. \n OR \n Discuss on Balancing Financial Goals vis-a-vis Sustainable Growth. OR \n Explain Balancing Financial vis-a-vis Sustainable Growth.",
+            "important": true
+          },
+          {
+            "question": "Explain the interface of Financial Policy and Strategic Management"
+          },
+          {
+            "question": "State the strategy at different hierarchy levels"
+          },
+          {
+            "question": "Are Sustainable Growth Rate and Internal Growth Rate being the same concept? explain",
+            "important": true
+          },
+          {
+            "question": "Explain the outcomes of Financial Planning",
+            "important": true
+          },
+          {
+            "question": "Finanical Resources, Financial Tools and Financial Goals are outcome of Financial Planning. Do you agree with the statement? ",
+            "important": true
+          }
+        ]
+      },
+
+      {
+        "chapterTitle": "Risk Management",
+        "testQA": [
+          {
+            "question": "Describe the various parameters to identify the currency risk"
+          },
+
+          {
+            "question": "How different stakeholders view the finacial risk \n  OR \n The Financial Risk can be viewed from different perspective. Explain \n Explain Financial Risk from the view point of stakeholder, company and the government ",
+            "important": true
+          }
+        ]
+      }
+    ]
+  }
+]
