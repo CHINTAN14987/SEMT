@@ -4,7 +4,12 @@
   padding-top: 0px !important;
   padding: 1rem !important;
 } */
-
+* {
+  font-family: Nunito, sans-serif;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
 .servicesProvided {
   font-family: Muli, sans-serif;
   font-size: 14px;
@@ -377,6 +382,7 @@ cite {
 .expert {
   position: absolute;
   top: 10%;
+  width: 15vw;
   right: 60px;
   animation-iteration-count: infinite;
   animation-duration: 3s;
@@ -396,7 +402,7 @@ cite {
 }
 .sliderOneDetails {
   position: absolute;
-  top: 40%;
+  top: 30%;
   left: 30px;
   width: 50%;
 }
@@ -414,7 +420,7 @@ cite {
   line-height: 59px;
   letter-spacing: 0px;
   font-weight: 700;
-  font-size: 51px;
+  font-size: 10vh;
   color: #fff;
   animation-duration: 3s;
   animation-name: zoomIn;
@@ -425,11 +431,11 @@ cite {
 .sliderpageOneBtn {
   border-width: 1px;
   padding: 12px 40px;
+  font-size: 2vw;
   border-radius: 6px;
   border: 2px solid #fff;
   background-color: transparent;
   color: #fff;
-  margin-left: 1.5rem;
 }
 
 .sliderpage_circleBtn {
@@ -457,10 +463,10 @@ cite {
   margin-left: 1.5rem;
 }
 @media screen and (max-width: 1024px) {
-  .cardsRow {
+  /* .cardsRow {
     left: 65px;
     width: 90%;
-  }
+  } */
   .cardSummary {
     padding-top: 15rem;
   }
@@ -484,5 +490,13 @@ cite {
 @media screen and (max-width: 768px) {
   .cardsRow {
     position: relative;
+  }
+  .sliderOneDetails h3 {
+    font-size: 4vh;
+  }
+  .sliderOneDetails {
+    width: 100%;
+    top: 10%;
+    left: 5%;
   }
 }

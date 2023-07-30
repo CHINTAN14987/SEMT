@@ -1,5 +1,6 @@
 import React from "react";
 import "../../Style/OurApproach.css";
+import "../../Style/index.css";
 const OurApproachCard = ({ number, heading, context, image }) => {
   return (
     <div className="oa-wrapper">

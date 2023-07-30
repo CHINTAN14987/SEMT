@@ -18,9 +18,9 @@ const AboutUsWhoWeAre = () => {
             <div className="AboutUsWhoWeAre-heading">WHO WE ARE</div>
             <div className="AboutUsWhoWeAre-subHeading">
               S.E.M.T&nbsp;
-              <span className="AboutUsWhoWeAre-subHeadingColor">
+              {/* <span className="AboutUsWhoWeAre-subHeadingColor">
                 Associates
-              </span>
+              </span> */}
             </div>
             <div className="AboutUsWhoWeAre-row1">
               Auditing & Assurance Services are the core of any successful and

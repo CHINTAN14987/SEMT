@@ -33,7 +33,8 @@ const MockTest = () => {
       <Select
         mode="single"
         showArrow
-        style={{ width: "50%" }}
+        placeholder="Select Chapter"
+        style={{ width: "90%" }}
         options={chaptersData?.[0]?.chapters?.map((item) => {
           return { value: item?.chapterTitle };
         })}

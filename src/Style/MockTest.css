@@ -18,13 +18,13 @@
   width: 3rem;
   height: 3rem;
   position: absolute;
-  top: -35%;
-  left: -3%;
+  top: -30px;
+  left: -30px;
   object-fit: contain;
   z-index: -1;
 }
 .question-container p {
-  width: 70%;
+  width: 90%;
   text-align: justify;
   color: #0c121d;
   font-weight: 600;

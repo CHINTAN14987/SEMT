@@ -5,8 +5,8 @@ const Navbar = () => {
   return (
     <div className="navbar-wrapper">
       <div className="navbar-logo">
-        <span className="blue-wrap"> S.E.M.T </span>{" "}
-        <span className="info-wrap">Associates</span>
+        <span className="blue-wrap"> S.E.M.</span>
+        <span className="info-wrap">T</span>
       </div>
       <div className="navbar-right">
         <Link to="/" className="navbar-rightItem">
