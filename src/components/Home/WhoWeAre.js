@@ -4,7 +4,7 @@ import "../../Style/WhoWeAre.css";
 import whoWeAre from "../../Images/whoWeAre.png";
 import "../../Style/WhyChooseUs.css";
 import Training from "../../Images/training.png";
-import Corporate from "../../Images/corporate.png";
+// import Corporate from "../../Images/corporate.png";
 import HomePage from "./HomePage";
 const WhoWeAre = () => {
   return (
