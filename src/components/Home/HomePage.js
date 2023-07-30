@@ -1,7 +1,6 @@
 import React, { useState } from "react";
-import Col from "react-bootstrap/col";
+import { Col, Row } from "react-bootstrap";
 import { BsArrowRight } from "react-icons/bs";
-import Row from "react-bootstrap/row";
 import Container from "react-bootstrap/container";
 import cardImage from "../../Images/cardImage.png";
 import CardImage2 from "../../Images/CardImage2.png";
