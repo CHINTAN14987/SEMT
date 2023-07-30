@@ -355,9 +355,9 @@ cite {
   font-weight: 300;
 }
 /* ///////////////////////// SLIDER*/
-.sliderOne {
+/* .sliderOne {
   background-image: url();
-}
+} */
 .sliderContainer .owl-carousel {
   position: relative;
   margin-bottom: -2px;

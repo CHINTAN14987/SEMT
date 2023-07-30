@@ -1,5 +1,4 @@
 import React from "react";
-import training from "../../Images/training.png";
 import "../../Style/OurApproach.css";
 const OurApproachCard = ({ number, heading, context, image }) => {
   return (
